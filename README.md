@@ -1,6 +1,8 @@
 Vivliostyle Project
 ===================
 
+-- *open source, web browser based CSS typesetting engine project* --
+
 The concept of this project is to make a new typesetting system fitting for the digital publishing era based on web browser technology.
 
 We are aiming for:
