@@ -76,7 +76,7 @@ Community
     * For free discussion about Vivliostyle and CSS typesetting, Japanese and English posts are welcome.
     * [FBlog, the archive of the posts](http://fblog.jp/gp/1535854529968761)
 * Use GitHub Issues for discussion and requests to the Vivliostyle development
-    * [Vivliostyle/Issues (in English)](https://github.com/vivliostyle/vivliostyle/issues)
+    * [Vivliostyle/Issues (main, in English)](https://github.com/vivliostyle/vivliostyle/issues)
     * [Vivliostyle_ja/Issues (in Japanese)](https://github.com/vivliostyle/vivliostyle_ja/issues)
 
 Vivliostyle Inc.
