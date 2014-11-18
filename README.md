@@ -65,6 +65,10 @@ Related W3C specs, standardization activity
 * [W3C Digital Publishing Activity](http://www.w3.org/dpub/)
 * …
 
+Frequently Asked Questions
+--------------------------
+See http://vivliostyle.com/faq
+
 Community
 ---------
 
