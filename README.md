@@ -24,6 +24,7 @@ Related third-party open source projects
 
 * JavaScript pagination/layout/polyfills:
     * [BookJS](https://github.com/booktype/BookJS) / [pagination.js](https://github.com/fiduswriter/pagination.js) / [simplePagination.js](https://github.com/fiduswriter/simplePagination.js)
+    * [css-polyfills for Books](http://philschatz.com/2014/03/07/polyfills-for-books/)
     * [Adaptive Layout](http://sorotokin.com/adaptive-layout/)
     * [CSSRegions.js](http://adobe-webplatform.github.io/css-regions-polyfill/)
     * [MathJax](https://github.com/mathjax/mathjax)
@@ -35,7 +36,7 @@ Related third-party open source projects
     * [WebKit](https://www.webkit.org/)
     * [Gecko](https://developer.mozilla.org/en-US/docs/Mozilla/Gecko)
 * Web browsers:
-    * [Chromium](http://www.chromium.org/)
+    * [Chromium](http://www.chromium.org/) / [Chromium Embedded Framework](https://code.google.com/p/chromiumembedded/)
     * [Otter](https://github.com/Emdek/otter)
     * [QupZilla](https://github.com/QupZilla/qupzilla)
     * … ([List of web browsers -- Wikipedia](http://en.wikipedia.org/wiki/List_of_web_browsers))
