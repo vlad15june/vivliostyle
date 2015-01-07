@@ -16,7 +16,7 @@ What we are going to make
 
 * **Vivliostyle Formatter** -- Print formatter, capable to generate high quality PDFs from structural documents such as HTML/XML/EPUB, with CSS paged media support
 * **Vivliostyle Browser** -- Web&epub browser with multiple viewing modes including paged view and print support; made as browser extensions or browser-based apps
-* **Vivliostyle.js** -- JavaScript library, for web sites with rich paged viewing and EPUB support, shared with Vivliostyle Formatter & Browser
+* [**Vivliostyle.js**](https://github.com/vivliostyle/vivliostyle.js) -- JavaScript library, for web sites with rich paged viewing and EPUB support, shared with Vivliostyle Formatter & Browser
 
 
 Related third-party open source projects
